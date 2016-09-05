@@ -11,6 +11,6 @@ asdfasdf
 
 http://www.google.com
 
-![blah](/images/blah.jpg)
+![blah](/images/blah2.jpg)
 
 the end
