@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Short MRK"
 date:   2016-09-06 19:43:27
