@@ -20,4 +20,5 @@ Years of experience have taught our analysis to recognize where the elephants an
 Bottom line, we really make money the old fashion way, by busting our butts and being 100% committed to doing the best possible work.
 
 Thanks,
+
 The Staff of Negative Research
