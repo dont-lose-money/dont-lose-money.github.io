@@ -9,6 +9,8 @@ Short AAPL at $205
 asdf
 asdfasdf
 
-www.google.com
+http://www.google.com
+
+![blah](/images/blah.jpg)
 
 the end
