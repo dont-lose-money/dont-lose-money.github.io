@@ -4,7 +4,7 @@ title:  "Buy LLY"
 date:   2016-09-15 19:43:27
 categories: Long LLY
 ---
-# Long, 20 @ $78.57 
+# Long LLY, 20 @ $78.57 
 Stop loss at $76.50, 2.6% stop loss.  Stop to add 20 (double position) more to position at $80.50. 
 
 ![Pic](/images/LLY1.png)
