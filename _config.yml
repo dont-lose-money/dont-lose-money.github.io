@@ -9,3 +9,4 @@ twitter_username: DLM_NegResearch
 
 # Build settings
 markdown: kramdown
+timezone: HST
